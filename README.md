@@ -15,7 +15,7 @@ cmake .. -GNinja && ninja -v && template_tests.exe
 
 
 \# Livestream #1
-\## Test Driven Development w systemach Embedded
+\#\# Test Driven Development w systemach Embedded
 
 Kod utworzony podczas streama:
 https://www.youtube.com/watch?v=_51MXgwJj3g
